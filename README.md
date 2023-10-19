@@ -1,5 +1,5 @@
 # Sales Insights Data Analysis Project
-
+Atliq Hardware is a company which supplies the hardware peripherals to different clients.The Sales Insights - Bricks and Mortar Business project aimed to enhance the decision-making process for AtliQ Hardware by leveraging data-driven insights. I designed a Power BI Dashboard and utilized SQL to analyze and visualize sales trends, empowering employees to make informed decisions for revenue growth in upcoming quarters. The dashboard offers a comprehensive view of AtliQ Hardware's sales performance, including revenue trends, city-wise sales, top customers, top products, and sales quantities. This project was pivotal in optimizing the business's sales strategy.
 1. dataset.sql contains the dataset for my project. 
 
 ### Data Analysis Using SQL
